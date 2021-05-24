@@ -40,6 +40,6 @@ def start_game():
             print("Oh no!, that is not a valid value. Try again...")
             print("({})".format(err))
     else:
-        print("That's cool, have a good one!")
+        print("That's cool, have a good day!")
 if __name__ == '__main__':
     start_game()
